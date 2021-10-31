@@ -1,0 +1,4 @@
+hi
+if only half data will be write in file!
+you will lose nothing!
+all your previous data will be safe
